@@ -47,7 +47,7 @@ The same business problem has been solved using multiple analytics tools to demo
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](PowerBI%20Dashboard.png)
+![Power BI Dashboard](PowerBI%20Dashboard.PNG)
 
 ---
 
@@ -59,7 +59,7 @@ The same business problem has been solved using multiple analytics tools to demo
 
 ### Excel Dashboard
 
-![Excel Dashboard](Excel%20Dashboard.png)
+![Excel Dashboard](Excel%20Dashboard.PNG)
 
 ---
 
